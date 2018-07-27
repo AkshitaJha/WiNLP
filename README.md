@@ -2,7 +2,7 @@
 
 Here we provide a dataset of tweets that were annotated for detecting benevolent sexism.
 
-The file `benevolent_sexist.txt` contains Tweet ID's of tweets that exhibit benevolent sexism.
+The file `benevolent_tweets.txt` contains Tweet ID's of tweets that exhibit benevolent sexism.
 
 If you use this dataset, please cite using:
 
